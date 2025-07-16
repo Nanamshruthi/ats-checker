@@ -2,6 +2,11 @@
 
 A modern web application that analyzes resumes for ATS (Applicant Tracking System) compatibility and provides actionable suggestions for improvement.
 
+<img width="1875" height="832" alt="Screenshot 2025-07-16 204109" src="https://github.com/user-attachments/assets/1be252c5-b62d-4ace-b8e2-4ef19a12e671" />
+
+🌐 Live Demo     👉[ Live Preview](https://preview--ats-checker.lovable.app/)
+ 
+
 ## Features
 
 - **Resume Upload**: Support for PDF, Word documents, and text files
