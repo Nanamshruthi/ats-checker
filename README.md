@@ -4,7 +4,7 @@ A modern web application that analyzes resumes for ATS (Applicant Tracking Syste
 
 <img width="1875" height="832" alt="Screenshot 2025-07-16 204109" src="https://github.com/user-attachments/assets/1be252c5-b62d-4ace-b8e2-4ef19a12e671" />
 
-🌐 Live Demo     👉[ Live Preview]([https://ats-score-check.netlify.app/](https://68dd576eb5225257dbb7ce01--ats-score-check.netlify.app/))
+🌐 Live Demo     👉[ Live Preview](https://68dd576eb5225257dbb7ce01--ats-score-check.netlify.app/)
  
 
 ## Features
